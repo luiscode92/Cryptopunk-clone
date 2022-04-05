@@ -1,5 +1,5 @@
 # Mapus
-![Preview](preview.gif)
+![Preview](React App - 5 April 2022.mp4)
 <br>
 Maps with real-time collaboration 🗺️
 
